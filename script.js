@@ -34,9 +34,7 @@ let atividades = [
   },
 ]
 
-// atividades = []
 
-// arrow function
 const criarItemDeAtividade = (atividade) => {
 
   let input = `
